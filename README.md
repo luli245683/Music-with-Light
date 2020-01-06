@@ -35,7 +35,7 @@
 
 - And beautify that...
 
-    ![](https://im5.ezgif.com/tmp/ezgif-5-07d0be7f872b.gif)
+    ![](https://thumbs.gfycat.com/ComplicatedFreeGangesdolphin-size_restricted.gif)
 ---
 
 ## Table of Contents (Optional)
