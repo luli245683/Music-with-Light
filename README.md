@@ -9,26 +9,33 @@
 
 ***Project Architecture***
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
 
-- Most people will glance at your `README`, *maybe* star it, and leave
-- Ergo, people should understand instantly what your project is about based on your repo
-
-> Tips
-
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
 
 
 **ttystudio**
 
-![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
+
 
 ---
 ## Overview of this Project
 
+### Music Visualization with the Fourier Transform
 
+- There are a ton of extravagant math conditions and diagrams that surface when you look for a Fourier change, however, for the reasons for this instructional exercise, I'm going to give a fundamental review.
+
+    ![](https://i.imgur.com/kOWxBlQ.jpg)
+
+- For the most part, we see a standard waveform. What this shows is the manner by which uproarious the melody is after some time. So around the center of the tune, we see these enormous spikes, and afterward these spikes get fundamentally littler. So we can see that the melody gets uproarious, and afterward a lot calmer just after. This is indicating plentifulness (uproar) after some time. This portrayal is known as the time area.
+
+    This doesn't give us a great deal of data about the melody, other than how boisterous it is at sure focuses. To get familiar with it, we can utilize a Fourier change. 
+
+    Rather than speaking to sound in the time-space, a Fourier change lets us speak to it in the recurrence area. This implies as opposed to giving us plentifulness and time, we'll be taking a gander at adequacy and recurrence.
+     
+    ![](https://media.giphy.com/media/kTLZ4yQvnlLyw/giphy.gif)
+
+- And beautify that...
+
+    ![](https://im5.ezgif.com/tmp/ezgif-5-07d0be7f872b.gif)
 ---
 
 ## Table of Contents (Optional)
@@ -114,6 +121,17 @@ $ npm install socket.io --save
 ```
 ### Hardware Setup
 
+#### Hardware Compoments
+
+
+| Name | Quantity 
+| -------- | -------- 
+| DFRobot Raspberry Pi 3     | 1
+| Assembled Pi T-Cobbler Plus - GPIO Breakout    | 1
+| LED     | 15*3
+
+
+#### Circuit Diagram
 
 ![](https://i.imgur.com/CUkPKhe.png)
 
